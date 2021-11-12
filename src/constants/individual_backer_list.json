@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "@fengkiej",
+        "description": "Idk, man. I will think l8r.",
+        "imgSrc": "/avatars/fengkiej.jpeg"
+    },
+    {
+        "id": 1,
+        "name": "@mrudi",
+        "description": "Squig. Squig. To the dicg.",
+        "imgSrc": "/avatars/mrudi.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "@keysplatz",
+        "description": "Lorem Ipsum.",
+        "imgSrc": "/avatars/keysplatz.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "@garethf",
+        "description": "Go smoke a joint.",
+        "imgSrc": "/avatars/garethf.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "@sheeki03",
+        "description": "Saint in a crooked world.",
+        "imgSrc": "/avatars/sheeki03.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "@freediefarmer",
+        "description": "Harvest Moon: Back to Nature.",
+        "imgSrc": "/avatars/freediefarmer.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "@mastershiller",
+        "description": "Damn that Cleopatra's booty is fucking huge.",
+        "imgSrc": "/avatars/mastershiller.jpeg"
+    }
+]

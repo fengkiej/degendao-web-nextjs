@@ -18,7 +18,9 @@ module.exports = (phase) => {
       }
     default:
       return {
-        reactStrictMode
+        reactStrictMode,
+        assetPrefix,
+        trailingSlash,
       }
   }
 }

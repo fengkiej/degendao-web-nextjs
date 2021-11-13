@@ -11,13 +11,11 @@ const Backers = () => {
                     { institutionBackers.map(item =>
                         <div key={item.id} className="flex flex-col items-center justify-between text-center m-8">
                             <div className="flex items-center flex-col">
-                                <div className="w-64">
-                                <Image
+                                <div className="w-36">
+                                <img
                                     src={item.imgSrc}
-                                    width="128px"
-                                    height="100%"
                                     alt={item.name}
-                                    className="object-cover rounded rounded-lg p-16"
+                                    className="object-cover rounded rounded-lg"
                                 />
                                 </div>
 
@@ -35,10 +33,9 @@ const Backers = () => {
                         <div key={item.id} className="flex flex-col items-center justify-between text-center m-8">
                             <div className="flex items-center flex-col">
                                 <div className="w-24 h-24">
-                                <Image
+                                <img
                                     src={item.imgSrc}
-                                    width="100%"
-                                    height="100%"
+
                                     alt={item.name}
                                     className="object-cover rounded-full"
                                 />

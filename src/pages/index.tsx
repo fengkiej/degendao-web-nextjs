@@ -46,9 +46,9 @@ const Home: NextPage = () => {
               <p className="my-4">So are cryptocurrencies. <b>It&#39;s something we agreed upon</b>.</p>
               <p className="my-4">Let’s take <b>the Bitcoin</b> as an example, in early days <b>only a handful of people believe in it</b>.</p>
 
-              <p className="my-4">This potential is there. <b>But, there’s an if, if we agree that it has a value</b>.</p>
-              <p className="my-4">And now, we are sure that Bitcoin has created its value, <b>the collective believe of the people</b>.</p>
-              <p className="my-4">Once this value is agreed upon, <b>a lot of stuffs can be built</b>.</p>
+              <p className="my-4">This potential is there. <b>But, there’s an if, if we agree that it has value</b>.</p>
+              <p className="my-4">And now, we are sure that Bitcoin has created its value, <b>the collective belief of the people</b>.</p>
+              <p className="my-4">Once this value is agreed, <b>a lot of stuffs can be built</b>.</p>
               <p className="my-4">Now, we have decentralized trading, decentralized lending, stablecoins, community of art collectors, and so many more!</p>
               <p className="my-4">Who knows what comes next, but we’re sure it will  <b>need a group of early Degens who are brave enough to take any risks, to venture into the unknown, and Degen DAO is the place to find us</b>.</p>
             </article>
@@ -64,7 +64,7 @@ const Home: NextPage = () => {
               <ul className="m-2 mx-4">
                 <li>- The DegenDAO developers community.</li>
                 <li>- Early supporters of the project.</li>
-                <li>- Review and feedback from Degen DAO members.</li>
+                <li>- Review and feedback from DegenDAO members.</li>
                 <li>- Investment opportunities from DegenDAO members.</li>
               </ul>
               <h3 className="m-2 font-bold">
@@ -81,42 +81,11 @@ const Home: NextPage = () => {
                 <Cta>Apply now!</Cta>
               </div>
             </Collapse>
-            <Collapse className="mx-4 sm:mx-8 my-4 lg:w-1/2 xl:w-1/3" title="For Potential Degens">
-              <p className="m-2">
-                Everyone is welcome to join the DAO. We want an inclusive community of Degens.
-              </p>
-              <h3 className="m-2 font-bold">
-                By joining as a Degen you will gain the access to:
-              </h3>
-              <ul className="m-2 mx-4">
-                <li>- Early projects, curated by DegenDAO members of experienced Degens.</li>
-                <li>- DegenDAO community & market insights.</li>
-                <li>- Investment opportunities to pre-seed, seed, and pre-offer projects.</li>
-              </ul>
-              <h3 className="m-2 font-bold">
-                Requirements of eligibility:
-              </h3>
-              <ul className="m-2 mx-4">
-                <li>- Own a DegenDAO PFP.</li>
-                <li className="mx-5">
-                  Tiers:
-                  <ul className="mx-4">
-                    <li>1. Degen Neophyte</li>
-                    <li>2. Degen Adept</li>
-                    <li>3. Greater Degen</li>
-                    <li>4. Archdegen (obtainable only with minimum DegenScore of yyy)</li>
-                  </ul>
-                </li>
-                <li>- DegenDAO PFP are obtainable by locking DegenDAO tokens.</li>
-              </ul>
-              <div className="flex justify-end p-4 w-full">
-                <Cta>Join DegenDAO</Cta>
-              </div>
-            </Collapse>
           </div>
         </div>
       </div>
-      <Backers />
+      <div className="w-full bg-night-sky p-1"></div>
+      {/* <Backers /> */}
       <Footer />
     </div>
   )

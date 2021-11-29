@@ -35,25 +35,25 @@ const MobileMenu = (props: any) => {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/coming_soon">
+                                <a href="https://twitter.com/DegensCitadel">
                                     <a className="relative block font-content px-2 my-4">
-                                        Mint DegenDAO PFP
+                                        Twitter
                                         <span className="absolute inset-x-0 bottom-0 h-0.5 bg-gradient-to-r from-blue-300 to-teal-400 via-yellow-300"></span>
                                     </a>
-                                </Link>
+                                </a>
                             </li>
                             <li>
-                                <Link href="/coming_soon">
+                                <a href="https://t.me/DegensCitadel">
                                     <a className="relative block font-content px-2 my-4">
-                                        Join DegenDAO
+                                        Telegram
                                         <span className="absolute inset-x-0 bottom-0 h-0.5 bg-gradient-to-r from-amber-200 to-teal-500"></span>
                                     </a>
-                                </Link>
+                                </a>
                             </li>
                             <li>
                                 <Link href="/coming_soon">
                                     <a className="relative block font-content px-2 my-4">
-                                        About
+                                        Discord
                                         <span className="absolute inset-x-0 bottom-0 h-0.5 bg-gradient-to-r from-cyan-200 to-green-500 via-red-200"></span>
                                     </a>
                                 </Link>

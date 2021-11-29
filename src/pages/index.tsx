@@ -78,7 +78,7 @@ const Home: NextPage = () => {
               </ul>
 
               <div className="flex justify-end p-4 w-full">
-                <Cta href="/coming_soon">Apply now!</Cta>
+                <Cta href="#">Apply now! (Coming soon)</Cta>
               </div>
             </Collapse>
           </div>

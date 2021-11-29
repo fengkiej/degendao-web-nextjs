@@ -1,6 +1,6 @@
 const Cta = (props: any) => {
     return (
-        <a href={props.href} target="_blank" className="relative inline-block group">
+        <a href={props.href} target="_blank" rel="noreferrer" className="relative inline-block group">
             <span className="absolute w-48 inset-0 bg-lovely-peach transition-transform transform lg:translate-x-1 lg:translate-y-1 group-hover:translate-y-0 group-hover:translate-x-0">
                 
             </span>

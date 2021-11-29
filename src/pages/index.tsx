@@ -28,7 +28,7 @@ const Home: NextPage = () => {
           A community-owned managed fund & VC DAO of <a href="https://degenscore.com" target="_blank" rel="noreferrer"><span className="text-light-indigo">Degens</span></a>
         </div>
         <div className="flex flex-row mt-8 justify-center">
-          <Cta>Join DegenDAO</Cta>
+          <Cta href="https://t.me/DegensCitadel">Join DegenDAO</Cta>
         </div>
         <div className="flex flex-col">
           <ExpandableContent title="Our collective-thesis" shortText={thesisShortText}>
@@ -78,7 +78,7 @@ const Home: NextPage = () => {
               </ul>
 
               <div className="flex justify-end p-4 w-full">
-                <Cta>Apply now!</Cta>
+                <Cta href="/coming_soon">Apply now!</Cta>
               </div>
             </Collapse>
           </div>

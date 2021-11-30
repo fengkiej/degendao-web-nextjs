@@ -25,7 +25,7 @@ const Footer = () => {
 
                 <ul className="p-2 flex flex-row justify-around">
                     <li>
-                        <a href="https://twitter.com/DegensCitadel">
+                        <a href="https://twitter.com/DegenCitadel">
                             <a className="relative block font-content px-2">
                                 Twitter
                                 <span className="absolute inset-x-0 bottom-0 h-0.5 bg-gradient-to-r from-cyan-200 to-green-500 via-red-200"></span>

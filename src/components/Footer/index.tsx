@@ -52,7 +52,7 @@ const Footer = () => {
 
                 <div className="text-center text-5xl p-2 mt-4 font-title">DegenDAO</div>
                 <div className="text-center text-sm font-misc">by DegenScore Citadel</div>
-                <div className="text-center text-sm font-content p-2">Copyleft (ɔ) 2021</div>
+                <div className="text-center text-sm font-content p-2">Copyleft (ɔ) 2022</div>
             </div>
         </div>
     )
